@@ -1,0 +1,11 @@
+Model Information:
+* title:	Viking Character
+* source:	https://sketchfab.com/3d-models/viking-character-f56267bbe2ab41428f4d7148876eced1
+* author:	Jshimield (https://sketchfab.com/Jshimield)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Viking Character" (https://sketchfab.com/3d-models/viking-character-f56267bbe2ab41428f4d7148876eced1) by Jshimield (https://sketchfab.com/Jshimield) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
